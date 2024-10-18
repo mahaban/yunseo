@@ -61,7 +61,7 @@ def suggest_outfit_by_body_type_and_weather():
     user_body_shape = users[current_user]['body_shape']
 
     # 체형에 따른 코디 규칙 및 이유
-    reason = ""
+    reason = ""                #이유
     if user_body_shape == "삼각형":
         top = random.choice([cloth for cloth in top_list if cloth[1] in ["흰색", "빨간색", "파란색", "주황색", "초록색", "노란색", "분홍색", "베이지색"]])
         bottom = random.choice([cloth for cloth in bottom_list if cloth[1] in ["검은색", "갈색", "남색"]])
