@@ -11,5 +11,8 @@ yunseo
 
 ## UI
 ![UI 1](https://github.com/mahaban/yunseo/blob/main/%EA%B7%B8%EB%A6%BC%201.jpg)
+간단히 떠올려본 첫 화면
+![UI 2](https://github.com/mahaban/yunseo/blob/main/%EA%B7%B8%EB%A6%BC%202.jpg)
+![UI 3](
 
 
