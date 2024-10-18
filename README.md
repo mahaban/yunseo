@@ -32,7 +32,6 @@ yunseo
 3. **MongoDB**: 비정형 데이터를 저장하는 데 최적화된 NoSQL 데이터베이스로, JSON과 유사한 문서(Document) 형식으로 데이터를 저장  
    ```bash  
    [MongoDB]( https://www.mongodb.com/ko-kr ) 
-   
-4. **RESTful API** : 웹에서 클라이언트와 서버가 데이터를 주고받을 때, HTTP 요청을 통해 자원을 쉽게 관리하고 조작할 수 있도록 만든 표준 방식  
+
 
 
