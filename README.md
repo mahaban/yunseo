@@ -22,11 +22,14 @@ yunseo
 
 ## 기술적 측면
 1. **Flutter** : 구글에서 개발한 오픈소스 UI 소프트웨어 개발 키트, ios와 android에서 모두 동작함
-[Flutter]( https://flutter.dev/ )
-2.  **Firebase** : 구글이 제공하는 모바일 및 웹 애플리케이션 개발 플랫폼으로, 실시간 데이터베이스, 인증, 호스팅, 푸시 알림 등의 기능을 제공
-[Firebase]( https://firebase.google.com/?hl=ko )
-3.  **MongoDB** : 비정형 데이터를 저장하는 데 최적화된 NoSQL 데이터베이스로, JSON과 유사한 문서(Document) 형식으로 데이터를 저장
-[MongoDB]( https://www.mongodb.com/ko-kr ) 
+   ```bash
+   [Flutter]( https://flutter.dev/ )
+2. **Firebase** : 구글이 제공하는 모바일 및 웹 애플리케이션 개발 플랫폼으로, 실시간 데이터베이스, 인증, 호스팅, 푸시 알림 등의 기능을 제공
+    ```bash
+     [Firebase]( https://firebase.google.com/?hl=ko )
+4. **MongoDB** : 비정형 데이터를 저장하는 데 최적화된 NoSQL 데이터베이스로, JSON과 유사한 문서(Document) 형식으로 데이터를 저장
+   ```bash
+     [MongoDB]( https://www.mongodb.com/ko-kr ) 
 4. **RESTful API** : 웹에서 클라이언트와 서버가 데이터를 주고받을 때, HTTP 요청을 통해 자원을 쉽게 관리하고 조작할 수 있도록 만든 표준 방식
 
 
