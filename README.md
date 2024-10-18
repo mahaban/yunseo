@@ -20,16 +20,19 @@ yunseo
 ## 핵심 기능
 프로젝트의 핵심적인 기능으로는 캘린더, 절약한 돈과 회복된 건강상태 확인, 동기부여 주기가 있습니다. 그리고 앱 안에 게시판을 개설해 커뮤니티가 활성화되면 금연을 하는 사람들과 서로 팁이나 일상을 공유하며 동질감을 느낄 수 있습니다. 또한 사용자가 직접 금연 현상금을 내거는 시스템을 추가했습니다. 
 
-## 기술적 측면
-1. **Flutter** : 구글에서 개발한 오픈소스 UI 소프트웨어 개발 키트, ios와 android에서 모두 동작함
+
+## 관련 링크
+
+1. **Flutter**: 구글에서 개발한 오픈소스 UI 소프트웨어 개발 키트, ios와 android에서 모두 동작함
    ```bash
    [Flutter]( https://flutter.dev/ )
-2. **Firebase** : 구글이 제공하는 모바일 및 웹 애플리케이션 개발 플랫폼으로, 실시간 데이터베이스, 인증, 호스팅, 푸시 알림 등의 기능을 제공
-    ```bash
-     [Firebase]( https://firebase.google.com/?hl=ko )
-4. **MongoDB** : 비정형 데이터를 저장하는 데 최적화된 NoSQL 데이터베이스로, JSON과 유사한 문서(Document) 형식으로 데이터를 저장
+2. **Firebase**: 구글이 제공하는 모바일 및 웹 애플리케이션 개발 플랫폼으로, 실시간 데이터베이스, 인증, 호스팅, 푸시 알림 등의 기능을 제공
    ```bash
-     [MongoDB]( https://www.mongodb.com/ko-kr ) 
-4. **RESTful API** : 웹에서 클라이언트와 서버가 데이터를 주고받을 때, HTTP 요청을 통해 자원을 쉽게 관리하고 조작할 수 있도록 만든 표준 방식
+   [Firebase]( https://firebase.google.com/?hl=ko )
+3. **MongoDB**: 비정형 데이터를 저장하는 데 최적화된 NoSQL 데이터베이스로, JSON과 유사한 문서(Document) 형식으로 데이터를 저장  
+   ```bash  
+   [MongoDB]( https://www.mongodb.com/ko-kr ) 
+   
+4. **RESTful API** : 웹에서 클라이언트와 서버가 데이터를 주고받을 때, HTTP 요청을 통해 자원을 쉽게 관리하고 조작할 수 있도록 만든 표준 방식  
 
 
